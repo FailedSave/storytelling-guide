@@ -74,8 +74,11 @@ If you get something bad like this, just hit Retry. (You'll do this for the rest
 
 
 >"I've heard about you from some of my friends."
+
 >"Nice to meet you," you say, trying not to stare too long at her face. 
+
 >It's hard when she stares right back.
+
 >"So... what brings someone like me here?"
 
 
@@ -86,13 +89,16 @@ This is better. "You're" staring at her, the AI is definitely allowing for some 
 
 
 >"I've heard about you from some of my friends," Morgana smiles, looking directly at you.
+
 >"Nice to meet you," you say, trying not to stare too long at her face. It's hard when she stares right back.
 
 
 Asking for a completion lets the characters keep talking:
 
 >"So, what brings you here?" Morgana asks.
+
 >"Just out with a few friends."
+
 >"Oh, okay then," Morgana nods.
 
 This is reasonable dialogue except that Morgana's seems to be giving up, which I don't want. The PC also doesn't seem terribly engaged, so let's retry the whole thing.
@@ -100,7 +106,9 @@ This is reasonable dialogue except that Morgana's seems to be giving up, which I
 It actually took me ten or so retries to get to something where Morgana's not outright propositioning the PC nor disinterested, but I finally landed on:
 
 >"So... what brings you here?" Morgana asks.
+
 >"Just wanted to get away from it all for awhile."
+
 >"Hmm, yes, I can see how that might be difficult..." Morgana leans forward. Her eyes are dark pools filled with malice.
 
 Yes! I'll replace "malice" with "intrigue" because I suspect "malice" will hint to the AI that she should, like, punch or fight me. Otherwise I like this dialogue, and I'll write some of my own as the next prompt to lead the conversation on:
@@ -110,19 +118,25 @@ Yes! I'll replace "malice" with "intrigue" because I suspect "malice" will hint 
 The reply is workable:
 
 >"Why, thank you. You're looking quite dapper yourself," she smiles, looking you over. She looks down at your hand, and grabs it. "Come with me."
+
 >"What?"
+
 >"Come with me,"
 
 I'll revise the dialogue so I sound less like an idiot:
 
 >"Why, thank you. You're looking quite dapper yourself," Morgana smiles, looking you over. She takes you by the hand and looks you in the eye.
+
 >"Come with me."
+
 >You hesitate briefly.
 
 The response is strong:
 
 >"Where are we going?"
+
 >"Does it matter?"
+
 >You look around. You are the only one looking. The bartender is serving drinks, and doesn't notice you leave. You follow the woman, who leads you out of the bar and into a waiting limousine.
 
 I'll let this go as-is. We're seeing a common AI pattern, which is that it doesn't do a great job of a slow build-up. It's hard to get it to seduce me over 25 lines of back-and-forth dialogue in the bar without forcefully rewriting a bunch of it by hand. Luckily what I actually want is to be seduced, so we'll roll with it.
@@ -132,17 +146,21 @@ I'll let this go as-is. We're seeing a common AI pattern, which is that it doesn
 I want to see where this is going, so I just ask the AI for the next segment:
 
 >The two of you enter, and the vehicle speeds off into the night.
+
 >Later, you find yourself at a underground nightclub. The woman from the bar is gone. You're not sure if she ever existed.
+
 >The nightclub is full of beautiful women dancing and having fun.
 
 Oops. The AI is confused and doing what it does when it gets confused, which is throw curve balls. Hitting Retry a couple times doesn't do anything useful. Looking over the story, I realize the problem. Morgana's reply of "Does it matter?" while appropriate to the seduction, means that the AI doesn't actually know where we're going. (Presumably Morgana's home/lair) I need to either write some story to that effect, or pin something like "you are in Morgana's limo, driving back to her house." I'm going to write some story. This is a big advantage of being in story mode; rather than having the PC drive events, I can just narrate what happens enough so the AI can pick it up.
 
 >You enter the limo first. Morgana climbs in after you. "Home, Oliver," she tells the driver, and closes the door.
+
 >Morgana sits directly next to you in the back. She holds one of your hands in both of hers, grinning. Her hands are cool to the touch, but your heart races.
 
 And the AI now generates the much more satisfactory:
 
 >"Listen. I know we just met, but I feel like I've known you for years. Years, John. I feel like you're my..." She doesn't finish her sentence, but instead moves in to kiss you on the lips.
+
 >Do you lean forward and return her kiss?
 
 I'll remove that last sentence, which doesn't fit, but otherwise it's good. I note that the trailing-off, which is nice and ominous, also might confuse the AI later, but it can stay for now. I'll just follow it up:
@@ -152,7 +170,9 @@ I'll remove that last sentence, which doesn't fit, but otherwise it's good. I no
 And the response:
 
 >You grip the seat in front of you, trying to hang on as she sends shivers through your body.
+
 >Her fangs pierce your neck, and you gasp one last time as she begins to drain your blood.
+
 >Suddenly, the car stops.
 
 The AI correctly picked up that this was a good time for Morgana to suck my blood, hooray! This exchange also showcases one of the weaknesses of the AI, which is its lack of ability to do a slow burn or gradual buildup. If I were writing this as fiction, the car ride would be a medium-short scene with building tension between the characters, where Morgana gets to show off her ability to be alluringly menacing.
@@ -160,6 +180,7 @@ The AI correctly picked up that this was a good time for Morgana to suck my bloo
 I'm actually going to dial this paragraph back just a little to slow the pace of the story:
 
 >Her teeth brush your neck as she takes a gentle nip. You grip the seat in front of you, trying to hang on as she sends shivers through your body. You reach for Morgana with your hand as you're consumed with the desire to be closer to her.
+
 >Suddenly, the car slows and comes to a stop. "Let's take this inside," Morgana whispers into your ear, brushing the outside of your ear with her lips.
 
 ## At Morgana's Place
@@ -167,6 +188,7 @@ I'm actually going to dial this paragraph back just a little to slow the pace of
 I'd like Morgana to lead the way, so I'll ask the AI for a continuation:
 
 >She opens the door and enters a mansion. You follow her inside. She leads you up the stairs to a luxurious bedroom. She sits on the bed and looks at you with desire in her eyes. You can barely contain yourself.
+
 >"Come here,"
 
 OK, let's keep pumping the brakes:
@@ -185,17 +207,21 @@ Good, except the "tools and toys" which are beside the point. I'll remove those,
 The response is perfect the first time:
 
 >You're hotter than you've ever been. You want to kiss her, touch her, caress her, and do even more than that.
+
 >"Soon, John. Not just yet," she says softly into your ear...
 
 Oh man, let's see what she has in mind:
 
 >You are John Doe. You are talking with your best friend, Bob, at your favorite bar. Suddenly, a mysterious woman enters the building, and approaches your table.
+
 >"Hello," she says. "I need to talk to you."
+
 >"Go ahead,"
 
 Oops. Let's retry.
 
 >You awaken. You're lying on the floor of your bedroom, fully clothed. Your neck hurts, and you reach up and feel it. There's a band-aid on it.
+
 >You stand up slowly. How long have you been asleep? What time is it now?
 
 Oops again. The AI correctly inferred that I should be a vampire, but it skipped the part I wanted to read.
@@ -211,12 +237,15 @@ Now the AI seems to be wanting us to have sex--a couple tries and it's mostly ha
 I add:
 
 >"Do you want this?" whispers Morgana.
+
 >"Yes," you whisper back desperately.
+
 >"Good," she replies. She brings her mouth down to your neck again, below the ear, and kisses you again.
 
 Sure enough, the AI comes back with:
 
 >You sigh in contentment as you feel the pleasure run through your body. Then, she bites down on your neck, and drinks your blood.
+
 >You try to gasp, but before you can, she's put her hand over your mouth. "Shhhhh,"
 
 Great except for the not-particularly-sexy description of drinking your blood. I could rewrite this, but I'll just try again.
@@ -226,7 +255,9 @@ Great except for the not-particularly-sexy description of drinking your blood. I
  Great. Keep going, AI.
 
 >She opens her mouth wide, and then slowly, gently, begins to run her fangs across your neck. She kisses you softly and runs her tongue lightly over your neck. You feel the tingling sensation below your stomach again, but this time radiating out through your body.
+
 >You feel weak at the knees.
+
 >"Mmmm..." Morgana slowly, gently, brings her teeth down to your neck. Her mouth opens wide, and you feel two sharp points gently pierce your neck just above the collar.
 
 It took a couple tries, but this is just what I was hoping for.
@@ -236,15 +267,20 @@ It took a couple tries, but this is just what I was hoping for.
 My character is "letting go" here, and I want to "let go" too and see what the AI will do.
 
 >You let out a gasp as she begins to suck gently.
+
 >"Aaaah..." the sensation runs through your body. You feel weak at the knees again, and you grip her tightly.
+
 >A warm sensation flows through your body, and you let out a gasp. "Aaaaah..."
+
 >You feel faint. Your vision begins to darken at the edges, and you feel dizzy. You grip Morgana tightly as the world turns upside-down.
 
 
 There's some repetitive phrases to clean up, but otherwise this has the tone and plot I'm looking for. Onward!
 
 >You feel as if you're falling. You close your eyes and begin to tumble forward, into the blackness...
-* Thud *
+
+> * Thud *
+
 >You land on the floor with a thud. Your head hurts, and so does the back of your neck.
 
 That started great, then went weird. A couple of retries, and it looks like the AI doesn't really know where to go from here. It isn't picking up that Morgana should be turning me into a vampire, and it's suggesting the start of a new scene instead. I'm going to change the pinned text at this point.
@@ -261,7 +297,9 @@ Your name is John.
 I've removed the stuff that's already happened, and focused on what needs to happen next. Let's try again.
 
 >You begin to lose consciousness.
+
 >"Shhh..." you hear Morgana whisper. "It'll be over soon. You'll never feel pain again... never feel the sadness... eternal darkness... we will be together... forever..."
+
 >You lose consciousness.
 
 *Great*, other than the slightly repetitive "You lose consciousness" text. I'll keep going anyway.
@@ -269,8 +307,11 @@ I've removed the stuff that's already happened, and focused on what needs to hap
 ## Epilogue / Rising as a Vampire
 
 >You don't know how long you were out, but when you wake up, you're lying on the bed. Your throat burns and your neck is sore where the vampire bit you. You sit up suddenly, and feel a wave of nausea hit you.
+
 >You blink your eyes several times and look around.
+
 >"It shouldn't be long before the weakness goes away," a familiar voice says. You turn your head, and through hazy vision you see Morgana sitting in a chair in the corner of the room.
+
 >She stands and walks over to you, sweeping her long dark hair behind her ear. "It'll take a few days for you to get used to your new body. For now, you're as weak as a kitten. Thirsty too, I imagine."
 
 I'm going to end the story at this point because it's hit the points I wanted to hit. It would be very easy to be intimate with Morgana at this point, either sexually or sharing blood; and the player could continue as a new vampire, charmed by Morgana (or fighting with her), and have further adventures.
