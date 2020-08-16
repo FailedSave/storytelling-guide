@@ -318,4 +318,4 @@ I'm going to end the story at this point because it's hit the points I wanted to
 
 I hope this guide helps you write your own fun, hot stories on AI Dungeon!
 
-You can read the full "finished" story [here](vampire story.md).
+You can read the full "finished" story [here](https://github.com/FailedSave/storytelling-guide/blob/master/vampire%20story.md).
