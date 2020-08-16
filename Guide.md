@@ -1,6 +1,6 @@
 # Guide to Erotic Storytelling with AI Dungeon
 
-With some effort and experimentation I've had really good luck writing erotic stories for myself with the help of AI Dungeon. I find that doing porn myself--with the AI helping--works really well for a couple reasons. First, I like to read porn in the second person, and AI Dungeon makes that really easy. Second, it's really hot to read something that's a surprise. Often the AI's output makes no sense, but it's good often enough that with some work you can write plenty of hot stories.
+With some effort and experimentation I've had really good luck writing erotic stories for myself with the help of [AI Dungeon](https://play.aidungeon.io/). I find that doing porn myself--with the AI helping--works really well for a couple reasons. First, I like to read porn in the second person, and AI Dungeon makes that really easy. Second, it's really hot to read something that's a surprise. Often the AI's output makes no sense, but it's good often enough that with some work you can write plenty of hot stories.
 
 This guide is to collect some of the tricks I've found to help others overcome obstacles and write fun porn!
 
@@ -12,6 +12,16 @@ This guide is to collect some of the tricks I've found to help others overcome o
 3. Don't be afraid to redo a prompt if you can't get a good result; think of it as collaborative writing, not a text adventure
 4. If something happens that the game needs to "keep track of", like a location or a transformation or a character is introduced, use the "pin" feature to make sure the game remembers.
 5. Pinning is also a good way to make characters behave consistently and do what you want them to do
+
+## What is AI Dungeon?
+
+AI Dungeon is an incredibly powerful text predictor, dressed up and pretending to be a text adventure game.
+
+"Text predictor" means that it looks over the most recent couple paragraphs of text, as well as the "remember" text, and tries to predict: "what comes next?" The engine is powerful enough that it will often make a good match not only in terms of plot and occurrences, but style as well! That's the good news. The bad news is that it _doesn't_ keep track of "state", or things that happen in the world. So if you picked up a gun twenty paragraphs ago, and haven't mentioned the gun since, the AI's responses won't make any use of it at all. The gun simply isn't in the text that the AI is currently using to guess what happens next. Likewise, if you last dealt with a character 20 paragaphs ago, that character won't come back unless you mention them yourself.
+
+By growing an understanding how the AI works, you can encourage and help it give the kind of responses you want to read. It will pick up on details and run with them, especially ones that you just mentioned, and it's more likely to write more about a detail if it's mentioned several times.
+
+When you ask it for text, the GPT-3 engine that powers AI Dungeon will return several responses along with how "good" (i.e. matching the text) it thinks they are. AI Dungeon doesn't expose all of these to you; instead, it just chooses one. If you hit Retry, you'll get a different response. If GPT-3 doesn't think any of the proposed responses are very good, sometimes it'll say the AI can't decide what to say. If this happens, you can try again; if it still fails, try writing another sentence or paragraph targeting a specific detail about the scene and trying again.
 
 ## Starting Out
 
