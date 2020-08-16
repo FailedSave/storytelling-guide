@@ -15,7 +15,7 @@ This guide is to collect some of the tricks I've found to help others overcome o
 
 ## Starting Out
 
-To start the game, figure out what you want to happen. It would be too distracting to actually use my real fetishes in this document, I'll do something that's broadly sexy and a little unusual but so let's plan a scenario:
+To start the game, figure out what you want to happen. It would be too distracting to actually use my real fetishes in this document, so I'll do something that's sexy and just a little unusual. I'll plan the scenario:
 
 > In this story, I want a vampire woman to seduce me, drink my blood, and turn me into a vampire.
 
@@ -82,7 +82,7 @@ If you get something bad like this, just hit Retry. (You'll do this for the rest
 >"So... what brings someone like me here?"
 
 
-This is better. "You're" staring at her, the AI is definitely allowing for some facination. But the dialogue is a little weird. Instead of retrying, we're going to alter this in a couple ways:
+This is better. "You're" staring at her, the AI is definitely allowing for some fascination. But the dialogue is a little weird. Instead of retrying, we're going to alter this in a couple ways:
 
 * Modify the dialogue to make it clear who's talking (this is a good practice that helps the AI keep track of who's who)
 * Fix the last sentence to make more sense. I'm going to do that by just deleting it and ask the AI for more completion.
