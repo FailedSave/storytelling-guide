@@ -317,3 +317,5 @@ I've removed the stuff that's already happened, and focused on what needs to hap
 I'm going to end the story at this point because it's hit the points I wanted to hit. It would be very easy to be intimate with Morgana at this point, either sexually or sharing blood; and the player could continue as a new vampire, charmed by Morgana (or fighting with her), and have further adventures.
 
 I hope this guide helps you write your own fun, hot stories on AI Dungeon!
+
+You can read the full "finished" story [here](vampire story.md).
