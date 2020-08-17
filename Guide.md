@@ -69,7 +69,7 @@ In the global Settings:
 
 In the Edit Adventure screen:
 * Give the story a good name so you can find it again
-* Turn on NSFW. I don't believe this does anything today except add the tag, but I assume that at some point in the future the game will filter out text with sex-related words if you don't have it enabled.
+* Turn on NSFW. This prevents the game from filtering out text with sex-related words if you don't have it enabled.
 * There's no need to add a description if you don't intend to share your story with the public. I haven't found that quests do anything to help the story.
 * Make sure the mode is Creative.
 
